@@ -1,7 +1,7 @@
 -- Projeto SQL de Transmissão de Dados Sensível ao Contexto com IA
 -- Integração com Nuvem: AWS S3 (Data Lake)
 -- Objetivo: Armazenar fluxos de dados em tempo real enriquecidos com contexto para análise posterior por IA
-
+ 
 CREATE DATABASE IF NOT EXISTS ai_context_streaming;
 USE ai_context_streaming;
 
