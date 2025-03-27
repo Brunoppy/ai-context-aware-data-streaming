@@ -1,4 +1,4 @@
-
+ 
 -- AI Context-Aware Data Streaming SQL Project
 -- Cloud Integration: AWS S3 (Data Lake)
 -- Purpose: Store real-time context-enriched data streams for further AI analysis
